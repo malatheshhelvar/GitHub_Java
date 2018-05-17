@@ -7,6 +7,7 @@ System.out.println("hello");
 System.out.println("branch1");
 System.out.println("branch1");
 System.out.println("In test branch 3");
+System.out.println("a");
 	}
 
 }
